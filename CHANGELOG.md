@@ -1,5 +1,11 @@
 # Changelog
 
+## v2.2.14
+
+### Changed
+
+- Added iframe support
+
 ## v2.2.13
 
 ### Changed
